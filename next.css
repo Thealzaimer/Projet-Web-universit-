@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: white;
+}
+
+.navbar .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.next-session-header {
+    background: url('hiking-header.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 20px;
+}
+
+.session-details {
+    background-color: #ffffff;
+}
+
+.what-to-bring {
+    background-color: #f8f9fa;
+}
+
+.list-group-item {
+    font-size: 1.1rem;
+}
+
+.registration {
+    background-color: #28a745;
+    color: white;
+    padding: 50px 20px;
+}
+
+.registration .btn {
+    font-size: 1.2rem;
+    padding: 10px 30px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
